@@ -1,0 +1,1249 @@
+- full_name: Tim Panton
+  avatar: https://secure.gravatar.com/avatar/91b7aeeacba174b1660f320387a55690?s=500
+  location: Westhawk ltd
+  bio: "Tim is a futurist with a strong pragmatic instinct, but currently spending
+    his time on Parrots and Lego dogs with &#124;pipe&#124;\r\n\r\nHis business card says he's
+    a 'Protocol Droid'. He has spoken at various conferences, and one Youtube talk
+    on webRTC has 65k views. ([https://www.youtube.com/watch?v=d7NsiFXcc5A](https://www.youtube.com/watch?v=d7NsiFXcc5A)) \r\n\r\nTim
+    is currently creating a secure, direct authenticated data transport layer between
+    connected devices and their owners.\r\nWhich seems to involve directly controlling
+    a Lego dog from a web browser.\r\nTim alternates between running startups and
+    consulting for larger companies. He's currently in a startup phase.\r\nPast projects
+    have included training simulation for oil platforms, time management of a space
+    telescope and running a mobile phone network at the Burning Man festival."
+  talk_format: Workshop (> 60 minutes)
+  twitter: steely_glint
+  url: https://pi.pe
+  organization: "|pipe|"
+  title: Realtime Thing Fun
+  abstract: \"It's Fun to have Fun, but you have to know how\" said the Cat in the Hat before he let out Thing One and Thing Two.
+    This workshop will introduce you to the fun you can have with devices at the crossover between Internet of Things and realtime communications whilst keeping them in a secure box.
+  description: "Many of the skills and tools we use in realtime communications are
+    very relevant for today's IoT devices.\r\nYou'll use your skills with WebRTC,
+    IVR, NAT traversal etc to build a device.\r\n(A video doorbell perhaps, or a remotely
+    controllable PodCast device, or a webcam on wheels)\r\nWe will provide a selection
+    of screens, lights, sensors, actuators, cameras, microphones etc which can be
+    plugged into a Raspberry Pi.\r\nWe will provide software and APIs to let you get
+    your selected hardware obeying your every whim! You'll use your smartphones as
+    remote\r\ncontrols for these devices.\r\nMentors will be on hand to help you get
+    everything working.\r\n\r\nThere will be a prize for the best (As selected by
+    Dan) working assembly.\r\n\r\nYou, or your co-experimentor will need some javascript
+    skills to get the best out of the hardware provided."
+  notes: Ideally we'd like to bring some IoT narrowband cards to attach to the Pi's
+    but I don't know if we can manage that - if not wifi will have to do.
+  audience_level: Intermediate
+  tags:
+  - Javascript
+  - raspberrypi
+  - Iot
+  - webrtc
+  state: accepted
+  confirmed: true
+- full_name: Binoy Chemmagate
+  #avatar: https://secure.gravatar.com/avatar/86a6df426fa15092b09bc1a7d6d913cc?s=500
+  avatar: https://pbs.twimg.com/profile_images/914554079870930944/NnBQHHbs_400x400.jpg
+  location: Unknown
+  bio: Binoy Chemmagate is a product manager at callstats.io, a WebRTC monitoring
+    service which analyses and optimizes the quality of multimedia in real-time communication.
+    At callstats.io, he leads the product and partnerships with SDK providers and
+    third parties. He received his masters degree in communication engineering from
+    Aalto University, Finland in 2012. He has been working in the Telecom and Networking
+    industry for the past 8 years with the focus on the transport layer optimization
+    in mobile data networks.
+  talk_format: Talk (~30-45 minutes)
+  twitter: binoykunhi
+  url: https://www.callstats.io/
+  organization: CALLSTATS I/O Oy
+  title: Emergence of WebRTC in new verticals
+  abstract: This talk showcases the growth and the emergence of WebRTC in different
+    verticals.
+  description: WebRTC is the dominant technology for delivering real-time communications,
+    be it communication apps for team-communication, gaming, health-care, language-learning,
+    online-tutoring, or banking and insurance. It is making in-roads in to call-centres
+    where the cloudification is making it easier to run click-to-call centres. Beyond
+    the audio and video, the data-channels are reigniting the spark for a distributed
+    web, i.e, bittorrent type of data delivery. This talk is going to go beyond these
+    areas and talk about the emergence and use of WebRTC in connected cars, conversational
+    devices, IoT, and video surveillance verticals.
+  notes: ''
+  audience_level: All
+  tags:
+  - WebRTC
+  - Verticals
+  - call centres
+  - surveillance
+  state: accepted
+  confirmed: true
+- full_name: Sergio Garcia Murillo
+  avatar: https://secure.gravatar.com/avatar/6dff65fd9b65257763120f32df8c2b14?s=500
+  location: Unknown
+  bio: "In addition to having more than 15 years of telco experience under his belt,
+    Sergio has been the senior solution architect and lead developer of several open
+    source projects. He has proven expertise in SIP, IMS, VoIP, and video communications,
+    including WebRTC and streaming technologies.\r\n\r\nCurrently he is the main developer
+    for Meedoze technology and recently joined CoSMo's Tech as Lead Media Server and
+    his day to day work life is hacking WebRTC in all sort of imaginative ways.\r\n\r\nSymphony
+    presentation on Double Encryption @ IIT-RTC\r\nhttp://www.rtc-conference.com/2017/presentation/?hid=618\r\nAttlasian
+    / Jitsi presentation on Double Encryption @ IIT-RTC\r\nhttp://www.rtc-conference.com/2017/presentation/?hid=594\r\nJanus
+    presentation on Double Encryption @ IIT-RTC\r\nhttp://www.rtc-conference.com/2017/presentation/?hid=596\r\n\r\nVP9
+    SVC in chrome, reverse engineering @ webrtc hacks\r\nhttps://webrtchacks.com/chrome-vp9-svc/\r\nVP9
+    SVC support in Janus from the Meedoze code base @ Meetecho\r\nhttp://www.meetecho.com/blog/availability-of-chrome-interoperable-vp9-svc-in-janus-a-meetecho-cosmo-collaboration/"
+  talk_format: Talk (~30-45 minutes)
+  twitter: murillo
+  url: https://github.com/murillo128/
+  organization: CoSMo Software Consulting, Pte Ltd
+  title: Choosing your WebRTC SFU - An introduction to Medooze Media Server and SFU
+  abstract: "Open-Source Webrtc MCUs and SFUs are few and far apart and includes a
+    new member to party, Meedoze, which contains advanced features (VP9 SVC support,
+    Double-encryption a.k.a. PERC Lite). \nWe will provide an overview of the state
+    of the art so you can choose which is the options that fits you best."
+  description: "Based on several years of Work on Meedoze technology, recent work
+    as CoSMo's Tech Lead Media Server for Symphony (Jitsi-based) and Evasyst (janus-based),
+    and reverse engineering of chrome for VP9 SVC support, webrtc media server expert
+    Sergio Murillo will deliver a great talk about the technical aspects of open-source
+    webrtc MCU / SFUs in general, how they compare, the latest advances, and the features
+    to look for when choosing one.\r\n\r\nAlso, he will introduce Meedoze server technology
+    portfolio which has been open sourced early 2018, and contains advanced features
+    (VP9 SVC support, Double-encryption a.k.a. PERC Lite), showing a live example
+    about how to use it to create a simple but powerful tool for libwertc developers.\r\n"
+  notes: "I have changed the abstract for the talk a bit, as I would prefer not to
+    talk about products in which I don't have hands on expertise and which I am competing
+    with (with seems un-ethical to me).\r\n\r\nI will provide an overview on the technical
+    trends on SFUs nowdays (based on Gustavo's efforts http://www.rtcbits.com/2017/06/different-webrtc-flavours-from.html)
+    and then move to a more deep dive on the projects I have commited patches to (so
+    they can't say it is unfair competence): jitsi, janus and medooze and use them
+    as the different kinds of architecture you may choose from:\r\n\r\n- jitsi ->
+    turn key\r\n- janus -> customize your own server\r\n- medooze -> get your hands
+    dirty and build everything on top\r\n\r\nThen, I will provide a live example on
+    how Medooze media server was used to create a  tool based on llibwebrtc peerconnection_server
+    to provide an echo server which can be used when testing libwertc modifications/hacks
+    (https://github.com/medooze/peerconnection-server) "
+  audience_level: All
+  tags:
+  - sfu
+  - webrtc
+  - media-server
+  state: accepted
+  confirmed: true
+- full_name: Li-Tal Mashiach
+  location: Greater Seattle Area
+  avatar: /assets/images/speakers/lital.png
+  bio: Engineer at Facebook
+  talk_format: Talk (~30-45 minutes)
+  twitter:
+  url: https://facebook.com
+  organization: 'Facebook'
+  title: Real Time Communication @ Scale
+  abstract: TBD
+  description: TBD
+  notes:
+  audience_level: All
+  tags:
+  state: accepted
+  confirmed: true
+- full_name: Pranav Jain
+  avatar: https://media.licdn.com/dms/image/C5603AQECAtX_3ZsZXQ/profile-displayphoto-shrink_800_800/0?e=1528988400&v=beta&t=dbZ61IVzjp2P2KG_ZbrVvgo_nnrWO9ISk-rN8jZvEfo
+  location: Unknown
+  bio: "<h2>Pranav Jain</h2> GSoC'16 with Debian <br>Software Developer @ Nvidia <br>Invited
+    to President House for Innovation Forum <br>Winner of Google Code for India Hackathon
+    facilitated by Shri. Narendra Modi., Prime Minister of India <br> Selected for
+    United Nation's COP 23 <br> Student of the Year\r\n\r\n<h2>Urvika Gola</h2><br>
+    Outreachy with Debian <br>Interned @ Fidelity International | Wipro"
+  talk_format: Talk (~30-45 minutes)
+  twitter: ''
+  url: http://urvikagola.wordpress.com
+  organization: Nvidia
+  title: 'Seasons of Debian - Summer of Code and Winter of Outreachy : Contributing
+    to open source RTC projects'
+  abstract: We would talk about our work of "Lumicall" RTC application. We would talk
+    about two major open source initiatives – Google Summer of Code and Outreachy
+    and How we got selected into these programmes, how our mentors helped us, the
+    warm open source community we got to experience.
+  description: "Being students who started their contribution to Open Source through
+    Outreach programmes, Urvika and Pranav would talk about two major open source
+    initiatives – Google Summer of Code and Outreachy. We both worked on Free - RTC
+    application. Our objective would be to talk about How we got selected into these
+    programmes, about the interesting tasks we got to do,  how our mentors helped
+    us along the way but kept enough room to explore on our own and the warm open
+    source community we got to experience. Both of us belong from underrepresented
+    group in technology.\r\n\r\nThese programmes provided a platform so that we, as
+    newcomers, could reach out to open source projects. In the same way, we plan to
+    keep driving involvement into open source projects through such programmes so
+    that more community is benefited. \r\n\r\nUrvika would share her experience being
+    an Outreachy Intern and how she she felt empowered and confident during and after
+    the programme. Outreachy is a similar program like GSoC but it helps people from
+    underrepresented groups such as females and LGBTQ, to get involved in open source
+    software. Outreachy programme is not necessarily for students or even coders.
+    That’s what makes the programme different. She would like to share her journey
+    of getting selected for Outreachy in the hopes of inspiring budding female developers
+    like her.Pranav would be sharing his working and learning experience during Google
+    Summer of Code.\r\n\r\nWe both worked on a Free - Real Time Communication (Free
+    - RTC) project particularly,  “Lumicall”.\r\nLumicall is a free and convenient
+    app for making encrypted phone calls.  It uses the SIP protocol to interoperate
+    with other apps and corporate telephone systems.  We would talk about the contributions
+    we made to this project and how it pushed RTC community forward. Additionally,
+    we would talk about the significance of Free RTC. We would talk about the advantages
+    of Free - RTC and how you can replace your existing stack with it.\r\n\r\nI, Pranav
+    would briefly explain about adding PUBLISH Support to Lumicall and developing
+    a library for adding quick enroll option to Android Applications.\r\n\r\n"
+  notes: "This is a two speaker talk (Urvika Gola and Pranav Jain)\r\nPreviously we
+    have spoken at :-\r\nDebConf 17, Montreal, Canada\r\nOpen Source Bridge, Portland,
+    USA\r\nFossasia, Singapore"
+  audience_level: Beginner
+  tags:
+  - community
+  - google summer of code
+  - outreachy
+  - gsoc
+  - contribute
+  - open source
+  - students
+  - diversity
+  - LGBT
+  - women
+  state: accepted
+  confirmed: true
+- full_name: Urvika Gola
+  avatar: https://avatars0.githubusercontent.com/u/19545352?s=460&v=4
+  location: Unknown
+  bio: "<h2>Pranav Jain</h2> GSoC'16 with Debian <br>Software Developer @ Nvidia <br>Invited
+    to President House for Innovation Forum <br>Winner of Google Code for India Hackathon
+    facilitated by Shri. Narendra Modi., Prime Minister of India <br> Selected for
+    United Nation's COP 23 <br> Student of the Year\r\n\r\n<h2>Urvika Gola</h2><br>
+    Outreachy with Debian <br>Interned @ Fidelity International | Wipro"
+  talk_format: Talk (~30-45 minutes)
+  twitter: ''
+  url: http://urvikagola.wordpress.com
+  organization: Debian
+  title: 'Seasons of Debian - Summer of Code and Winter of Outreachy : Contributing
+    to open source RTC projects'
+  abstract: We would talk about our work of "Lumicall" RTC application. We would talk
+    about two major open source initiatives – Google Summer of Code and Outreachy
+    and How we got selected into these programmes, how our mentors helped us, the
+    warm open source community we got to experience.
+  description: "Being students who started their contribution to Open Source through
+    Outreach programmes, Urvika and Pranav would talk about two major open source
+    initiatives – Google Summer of Code and Outreachy. We both worked on Free - RTC
+    application. Our objective would be to talk about How we got selected into these
+    programmes, about the interesting tasks we got to do,  how our mentors helped
+    us along the way but kept enough room to explore on our own and the warm open
+    source community we got to experience. Both of us belong from underrepresented
+    group in technology.\r\n\r\nThese programmes provided a platform so that we, as
+    newcomers, could reach out to open source projects. In the same way, we plan to
+    keep driving involvement into open source projects through such programmes so
+    that more community is benefited. \r\n\r\nUrvika would share her experience being
+    an Outreachy Intern and how she she felt empowered and confident during and after
+    the programme. Outreachy is a similar program like GSoC but it helps people from
+    underrepresented groups such as females and LGBTQ, to get involved in open source
+    software. Outreachy programme is not necessarily for students or even coders.
+    That’s what makes the programme different. She would like to share her journey
+    of getting selected for Outreachy in the hopes of inspiring budding female developers
+    like her.Pranav would be sharing his working and learning experience during Google
+    Summer of Code.\r\n\r\nWe both worked on a Free - Real Time Communication (Free
+    - RTC) project particularly,  “Lumicall”.\r\nLumicall is a free and convenient
+    app for making encrypted phone calls.  It uses the SIP protocol to interoperate
+    with other apps and corporate telephone systems.  We would talk about the contributions
+    we made to this project and how it pushed RTC community forward. Additionally,
+    we would talk about the significance of Free RTC. We would talk about the advantages
+    of Free - RTC and how you can replace your existing stack with it.\r\n\r\nI, Pranav
+    would briefly explain about adding PUBLISH Support to Lumicall and developing
+    a library for adding quick enroll option to Android Applications.\r\n\r\n"
+  notes: "This is a two speaker talk (Urvika Gola and Pranav Jain)\r\nPreviously we
+    have spoken at :-\r\nDebConf 17, Montreal, Canada\r\nOpen Source Bridge, Portland,
+    USA\r\nFossasia, Singapore"
+  audience_level: Beginner
+  tags:
+  - community
+  - google summer of code
+  - outreachy
+  - gsoc
+  - contribute
+  - open source
+  - students
+  - diversity
+  - LGBT
+  - women
+  state: accepted
+  confirmed: true
+- full_name: Simon Woodhead
+  avatar: https://secure.gravatar.com/avatar/0ecdc3c7d3bcacd2cae2cd6c1430b4aa?s=500
+  location: Unknown
+  bio: A regular speaker at other industry events, Simon founded Simwood 20 years
+    ago and the company has a reputation and passion for innovation and solving challenges
+    from an unconventional perspective. He’s unusual amongst CEOs in being very hands-on
+    with engineering across the breadth of the business and so can present on both
+    the high level industry trends, down to the micro-detail of configuration. He’s
+    quite outspoken in pursuit of a fair, transparent BS-free marketplace, and his
+    irreverent swagger usually comes out in presentations.
+  talk_format: Talk (~30-45 minutes)
+  twitter: simwoodesms
+  url: https://simwood.com
+  organization: Simwood Group PLC
+  title: Auto-Pilot Pattern
+  abstract: 'Thankfully the Wright Brothers didn’t wait for radio before inventing flight - they got in and flew the thing rather than adding the complexity of remote control. Why do we burden our applications with this? Because it is better than flying them ourselves perhaps? At Simwood we prefer to let them fly themselves and I’ll explain how.'
+  description: 'Thankfully the Wright Brothers didn’t wait for radio before inventing flight - they got in and flew the thing rather than adding the complexity of remote control. Why do we burden our applications with this? Because it is better than flying them ourselves perhaps? At Simwood we prefer to let them fly themselves and I’ll explain how.'
+  notes:
+  audience_level: Intermediate
+  tags:
+  - network
+  - sd-wan
+  - cloud
+  state: accepted
+  confirmed: true
+- full_name: Allison Smith
+  avatar: https://pbs.twimg.com/profile_images/824797468336410624/sMCPucnm_400x400.jpg
+  location: Unknown
+  bio: Allison Smith is a veteran Professional Telephone Voice, despite being only
+    in her early twenties. Heard on platforms for Cisco, Mitel, ShoreTel, Bell Canada,
+    Cincinnati Bell, Hawaiian Telcom, Verizon, Vonage and many others, she is probably
+    best known for her work as the Voice of the Asterisk Open Source PBX and Switchvox,  and
+    FreeSWITCH. Private clients inlude PetSmart, 3M, NASA, Toyota, Royal Caribbean,
+    State Farm Insurance. She hates talking on the phone.
+  talk_format: Talk (~30-45 minutes)
+  twitter: voicegal
+  url: http://www.theivrvoice.com
+  organization: The IVR Voice.com
+  title: 'The 90''s Called: It Wants Your IVR Back'
+  abstract: |-
+    Remember the days when the sole purpose of an IVR was to "sort" callers into various streams? It was all about simply creating divisions of callers with different topics for call center agents who "specialize" in their issue.
+    That's *so* 90's.
+    IVR has progressed far past that -- and so should you.
+  description: "The idea that the purpose of an IVR is just to \"sort\" callers to
+    be better handled by specific agents is an old, tired, outdated one.\r\nNothing
+    says \"90'\" better than a phone system which drones on: \"For this, press that.....for
+    this other thing, press that...\" It lacks imagination, it's predictable, and
+    it's not using the IVR to its best ability. With a skillfully crafted phone tree,
+    you can carry your brand message to your callers. You can build relationships,
+    you can reinforce customer choice, and you can actually create a strong identity
+    through your IVR.\r\nFrom her unique vantage point as a professional telephone
+    voice, Allison Smith -- heard on IVRs worldwide for enterprise phone systems,
+    IVRs for Fortune 500 companies, and in both the proprietary and Open Source world
+    -- will shed some insight on where IVRs *were* -- and where they are headed. It's
+    a more vibrant, personality-filled IVR than was ever conceived of in the 90's
+    -- and it's about time."
+  notes: 'I record IVR day and day out. It''s my wheelhouse, my specialty, and more
+    core competency. Many people can speak at length about mapping out IVR schematics
+    and the technical aspects of programming IVR; I get into the psychology of IVR:
+    what makes it dreaded by most callers, and how it can be changed with some mindful
+    construction and a belief that its capable of doing a great many more things than
+    traditionally thought.'
+  audience_level: All
+  tags:
+  - IVR
+  - Call Center
+  - Phone Trees
+  - Call Metrics
+  state: accepted
+  confirmed: true
+- full_name: Eric Klein
+  avatar: https://pbs.twimg.com/profile_images/981829169423310848/Q7E2VgWU.jpg
+  location: Unknown
+  bio: 'Eric has more than 25 years of experience in the Telecom industry. In addition
+    to his experience in VoIP security at Greenfield Tech and fraud prevention at
+    Humbug Telecom, he has worked for carriers MCI Communications (now part of Verizon)
+    and Cellcom. Eric co-authored RFC4864 - Local Network Protection for IPv6 and
+    served as a grant reviewer for the US Department of Commerce Broadband Initiatives
+    (BIP) Program and Broadband Technology Opportunities Program (BTOP). Eric has
+    taught practical networking at a number of Universities and schools to both undergraduate
+    and graduate students including: NYU Polytechnic School of Engineering, Tel-Aviv
+    Jaffa Academic and Pace University.'
+  talk_format: Talk (~30-45 minutes)
+  twitter: ericlkein
+  url: https://www.Cloudonix.io
+  organization: Cloudonix.io
+  title: "  Case Studies- Managing Your VoIP System"
+  abstract: Knowing what is going on in your network is critical. Learn about the
+    tools available to make sure your communications network is up and running with
+    case studies of an enterprise, a contact center, and a cellular carrier.
+  description: Regardless of whether you are using Asterisk, FreeSwitch, or another
+    PBX for an enterprise, a contact center, or to run a carrier; you need to manage
+    and monitor your network. In this session Eric will review the various commercial
+    and open source systems you can use to manage your network. This will be done
+    by giving examples and case studies from various types of situation. These will
+    include an enterprise, a contact center, and a cellular carrier. An emphasis will
+    be towards network up-time and security,
+  notes: "I have more than 20 years in network management, support, and fraud prevention
+    experience.\r\nThis presentation will need a projector and internet connection.
+    A whiteboard would be helpful but is not mandatory."
+  audience_level: All
+  tags:
+  - NOC
+  - Support
+  - Mission Critical
+  state: accepted
+  confirmed: true
+- full_name: Jöran Vinzens
+  avatar: /assets/images/speakers/joran.jpeg
+  location: Cologne Area, Germany
+  bio: I stared my current work six years ago at sipgate as VoIP engineer. During
+    my work i have been in contact with lots of VoIP services such as asterisk, kamailio
+    or yate. We are using these components in a large scale environment. about 4 years
+    ago we stared with automation with our java backed systems. A Little later we
+    have made the first steps in order to automate VoIP Systems so we can handle the
+    large system with less effort and more precision. During the process I have worked
+    on different ways to use ansible. Performing some little steps in addition to
+    the existing process up to an entire new deployment process from scratch I have
+    worked on different implementations.
+  talk_format: Talk (~30-45 minutes)
+  twitter: vinzens81
+  url: ''
+  organization: sipgate gmbh
+  title: Deploy your VoIP using Ansible
+  abstract: Ansible is a powerful tool in order to deploy an kind of service. unfortunately
+    VoIP is not just any service. There special needs and limitations we have to face
+    during a deployment. I'll give samples and ways how to use ansible in order to
+    deploy asterisk, kamailo or yate.
+  description: "We use ansible in our company to deploy every kind of service including
+    voip systems. We have made lots of iterations and we hope everybody can make use
+    of our experience. automation makes systems uniform and the deployment much faster
+    while less complex for developers and administrator.\r\nan automatic way of deployment
+    can be used for one system only as well as a high scaled infrastructure with several
+    hundreds of systems. No matter if the systems are on bare metal or some kind of
+    container ansible can be used.\r\n\r\nI gave a talk at astricon very similar to
+    what i am planning here. During this talk I will concentrate more on the ansible
+    specifics to be used for voip services. "
+  notes: "During my work at sipgate we have made a lot improvements to spare us a
+    lot of time using automation such as ansible. I have written lots of ansible scripts
+    myself so i have made lots of experience in using ansible as a developer as well
+    as user in order to deploy.\r\n"
+  audience_level: Intermediate
+  tags:
+  - ansible
+  - deployment
+  - continous deployment
+  - asterisk
+  - kamailio
+  state: accepted
+  confirmed: true
+- full_name: Marquis de Geek
+  avatar: https://avatars1.githubusercontent.com/u/3257717?s=400&v=4
+  location: aka Steven Goodwin. London
+  bio: "Steven Goodwin (London, England) has been involved in computing, science,
+    and technology from an early age, writing his first code when 8 and building his
+    first synthesizer while still in his teens. Since then he's grown up (apparently!)
+    to become a CTO and systems architect who has designed and built global systems
+    for Unilever, Playfish, and Third Space Learning, using a wide range of languages
+    and technologies.\r\n\r\nHe's also highly experienced working at a small scale,
+    with innovative work on the iPhone, Arduino, and Raspberry Pi in the communication,
+    IoT, and home automation space.\r\n\r\nHis position as an industry thought leader
+    includes 60+ articles, 5 books, and work as a start-up consultant, futurist, and
+    mentor. As a speaker and commentator he has spoken at many major national, and
+    international, conferences around the world on topics as diverse as WebRTC, HTML5,
+    game development, and quantum superpositions.\r\n\r\nHis interests outside of
+    computers, also involve computers!"
+  talk_format: Talk (~30-45 minutes)
+  twitter: MarquisdeGeek
+  url: http://MarquisdeGeek.com
+  organization: ''
+  title: Build your own Skype in an afternoon
+  abstract: WebRTC is a communication protocol that is built directly into the web
+    browser, allowing for voice and video calls to be made without plugins or native
+    applications. In this talk, Steven covers the basics of the platform, what it
+    is, what is does (and does not do), and cover the underlying code.
+  description: "Although the marketing hype suggests you can build a 'Skype in a browser'
+    in an afternoon, it doesn't really tell you how. Or where the problems will occur.
+    This talk will cover both the client and server-side code necessary to do it properly.
+    Targeted at developers of all levels who are unfamiliar with WebRTC, it will provide
+    a better understand of how WebRTC applications work under the hood, what the API
+    provides, and serve as a guide as to what is (and what is not) possible for the
+    developers to deliver.\r\n\r\nI will practically demonstrate the various \"moving
+    parts\" necessary to build a WebRTC application, by creating one live on stage."
+  notes: "This can be presented on a single machine, despite it being a communications
+    talk.\r\n\r\nI have given variations on this talk many times (https://marquisdegeek.com/words_speaker)
+    and have used WebRTC to build two professional platforms, including TSL which
+    helps teacher primary school kids mathematics using remote tutors."
+  audience_level: All
+  tags:
+  - webrtc
+  - communications
+  - javascript
+  state: accepted
+  confirmed: true
+- full_name: Seán C McCord
+  avatar: https://secure.gravatar.com/avatar/a204c3ea775555181f95825ced244068?s=500
+  location: Unknown
+  bio: "Seán C McCord has been building clustered and distributed Linux systems commercially
+    since kernel version 1.3. In 2004, he founded CyCore Systems to build complex,
+    multi-realm systems built on open platforms for all manner of business.  He has
+    been building telephone-oriented software systems since the early 90s, and he
+    has been building VoIP systems with Asterisk since 2003.  He leapt into the container
+    world as soon as he saw it, and he believe Kubernetes is the operating environment
+    of the future.\r\n"
+  talk_format: Talk (~30-45 minutes)
+  twitter: SeanCMcCord
+  url: ''
+  organization: CyCore Systems, Inc
+  title: Scaling VoIP into the Container Era
+  abstract: |-
+    It's time to bring devops to VoIP.  While less straight-forward than the average
+    webapp deployment, we have much to gain from modern tooling.  Kubernetes, in
+    particular, is an important part of any scalable VoIP deployment.
+  description: "None of the usual VoIP components lends itself well to operating in
+    a containerized environment.  The configuration is tedious and complicated.  IP
+    addresses are critical.  NAT is brutal.  But that doesn't mean all hope is lost.\r\n\r\nWith
+    a distillation of configuration dynamics, a bit of good architecture, and a generous
+    amount of glue, we can establish a scalable, redundant, and reliable VoIP system
+    leveraging all that is good from Kubernetes and modern container-based architecture.\r\n"
+  notes: Kubernetes is a perennially popular topic, and while this talk will be similar
+    to the one I did at Astricon the year before last, the method and implementations
+    are now more refined and more flexible.  Additionally, we integrate some of the
+    new features in Kubernetes to make deployments simpler.
+  audience_level: Intermediate
+  tags:
+  - scalability
+  - redundancy
+  - containers
+  - kubernetes
+  - docker
+  - asterisk
+  - freeswitch
+  - kamailio
+  - deployment
+  - devops
+  - automation
+  - cloud
+  state: accepted
+  confirmed: true
+- full_name: Jared Smith
+  avatar: https://secure.gravatar.com/avatar/93ceea61b40a1d52c2e71f145acf5e61?s=500
+  location: USA
+  bio: Jared Smith is computer engineer and an evangelist for free and open source
+    software.  He is an industry-recognized expert in Voice-over-IP and open source
+    community development, as well as a former leader of the Fedora Project.  Jared
+    currently lives in Virginia, USA.
+  talk_format: Talk (~30-45 minutes)
+  twitter: jsmith
+  url: https://www.sangoma.com/
+  organization: "Sangoma"
+  title: Seven Habits of Highly Effective Open Source Developers
+  abstract: In this talk, I'll discuss seven habits that I've found to be the most
+    critical for open source developers.  I'll also give examples from my own experiences
+    in the field of open source real-time communication platforms.
+  description: "When I was in my early twenties, my parents gave me a copy of Steven
+    Covey's book entitled *The 7 Habits of Highly Effective People*.  I promptly thought
+    \"I don't need a self-help book\" and put it on my shelf.  Twenty years later,
+    I picked it up, started to read it, and was shocked at how many of the principles
+    taught in that book line up with Open Source software and community development.\r\n\r\nIn
+    this talk, I'll put an open source twist on those seven habits, and share experiences
+    that I've had over my career as an open source developer, enthusiast, and community
+    evangelist.  "
+  notes: I'm an industry-recognized expert on both open source telecommunications
+    and open source community building.  I've spoked at dozens of conferences around
+    the world, and think this talk would be a great addition to the conference.
+  audience_level: Beginner
+  tags:
+  - software development
+  - open source
+  - communications
+  - community building
+  state: accepted
+  confirmed: true
+- full_name: Evan McGee
+  avatar: https://secure.gravatar.com/avatar/0e3ffa615a30a64243177166f4f28f1b?s=500
+  location: Unknown
+  bio: "Evan has over a decade of deep experience with the telecommunications industry,
+    including both executive business and technical expertise with traditional wireless
+    MNOs/MVNOs and WebRTC/VoIP OSS. He has published patents covering both hardware
+    and software design and is a frequent presenter at realtime/IoT conferences covering
+    aspects such as scalable SaaS deployments, best business practices, and utilization
+    of machine learning models in a realtime setting. \r\n\r\nAs CTO at RingPlus,
+    Evan helped create and grow the MVNO from a blue sky project to 120k+ mobile users
+    spread throughout the United States. This included the in-house creation of all
+    platforms and systems from carrier integration through deployment, billing, and
+    customer service. \r\n\r\nAs the lead on Product Research & Development, he was
+    instrumental in innovating a number of high profile business product offerings,
+    including Telecom-as-a-Service (TaaS) MVNE enablement, in-call voice translation
+    (in 2013), FluidCall (seamless legacy wireless to WiFi handoff), and innovations
+    in telecom billing models. "
+  talk_format: Talk (~30-45 minutes)
+  twitter: startledmarmot
+  url: https://hifelix.io
+  organization: Felix
+  title: Realtime Machine Learning
+  abstract: 'Machine learning itself is decidedly not real time. Why, it can take
+    days for multi-GPU machines to assemble a working model! The results for RTC,
+    however, could be revolutionary: video/audio optimization, advanced NLU, speaker
+    synthesis, realtime session transmission tuning... and crime!'
+  description: "Machine learning is an exploding field - with the arrival of cloud
+    GPU instances and libraries like TensorFlow and PyTorch, models can be trained
+    in ways that were never practical before. For us working in RTC, we can now leverage
+    those tools to both solve issues with realtime communications and create new ones.
+    Who's interested in crime?\r\n\r\nIn this talk we'll discuss the future of ML
+    with RTC. We've recently seen rapid advances in ASR, TTS, and machine translation.
+    Incorporating these directly into our platforms is now a simple API call away.
+    Next up is optimization of audio and video using models like Google's RAISR, allowing
+    us to realtime upscale the image stream on the client side with no artifacting.
+    Similarly we can do advanced noise suppression using tools like Mozilla's RRNoise
+    or, even more exciting, only send a subset of audio and recreate speech on the
+    far side using a model of the speakers voice.\r\n\r\nMachine learning works best
+    when there is voluminous amounts of well-structured data -- something that we
+    generate each call in spades! We can also use machine learning to analyze data
+    and watch metrics during a session to re-route or optimize bitstreams accordingly.
+    After the call, we can take a look at the statistics to improve future performance.\r\n\r\nBut
+    what if you weren't the ethical, upstanding citizen you are today? These tools
+    can also be used for nefarious purposes. Imagine receiving a call from someone
+    you loved saying there were in the hospital, so you quickly leave your house unlocked.
+    And are we OK putting voice over actors out of work? We'll talk through some of
+    the societal repercussions of these advances."
+  notes: 'No real technical requirements other than an interest in RTC and machine
+    learning! This talk will expand on the talks I''ve given previously and it''ll
+    incorporate both practical and theoretical new advances in the field. We''ll also
+    dive into a few of the ethical dilemmas behind these technologies so everything
+    has something to discuss over lunch.  '
+  audience_level: All
+  tags:
+  - machine learning
+  - docker
+  - python
+  - ruby
+  state: accepted
+  confirmed: true
+- full_name: Iñaki Baz Castillo
+  avatar: https://secure.gravatar.com/avatar/0f1f17ba297242e9d3c86d4cc0a6ea85?s=500
+  location: Madrid, Spain
+  bio: 'Everything is in my personal site: https://inakibaz.me'
+  talk_format: Talk (~30-45 minutes)
+  twitter: ibc_tw
+  url: https://inakibaz.me
+  organization: ''
+  title: Building multi-party video conference applications with mediasoup
+  abstract: |-
+    "Our hyper cool video conference app requires Chrome browser"
+
+    Tired of reading that? Are you planning to build your own multi-party WebRTC app but can't even figure out how to deal with the different API and feature set of each browser?
+
+    I feel your pain. That's why I started the mediasoup project.
+  description: "Given the state of the art of WebRTC and how browsers differ on their
+    API implementations, building nowadays a cross-device compatible WebRTC multi-party
+    app becomes so tedious.\r\n\r\n[mediasoup](https://mediasoup.org) to the rescue.
+    By providing a powerful, low level, unopinionated and unified client-side SDK,
+    mediasoup makes it easy to build WebRTC multi-party applications that run on all
+    modern browsers (yes, also in Safari and Microsoft Edge).\r\n\r\n* mediasoup is
+    all about media (audio and video).\r\n* It doesn't touch your DOM.\r\n* No assumptions
+    regarding the signaling, usage, business or purpose of your app.\r\n* mediasoup
+    just assumes that you like JavaScript :)\r\n\r\nThis talk is an introduction to
+    how to integrate the mediasoup components into your application (and not the other
+    way around) because **your app is up to you.**"
+  notes: ''
+  audience_level: Intermediate
+  tags:
+  - WebRTC
+  - JavaScript
+  - Node.js
+  - SFU
+  state: accepted
+  confirmed: true
+- full_name: Federico Cabiddu
+  avatar: /assets/images/speakers/federico.png
+  location: Amsterdam, The Netherlands
+  bio: Federico is a Senior VoIP Developer of Libon project, an OTT service from Orange Vallee, the innovation division of the French mobile operator Orange. Graduated in Electronic Engineering at University of Cagliari, Italy, in 2001, Federico has been working since then in VoIP, using mainly open source solutions. He is an active Kamailio's community member and proudly activist of the SIPCAPTURE team.
+  talk_format: Talk (~30-45 minutes)
+  twitter: qxip
+  url: http://qxip.net
+  organization: QXIP
+  title: Homer Seven
+  abstract: QXIP is proudly Introducing the latest and greatest HOMER v7 with support
+    for agnostic protocols, deep integration with 3rd party platforms and plety of
+    eye-candy.
+  description: ''
+  notes:
+  audience_level: All
+  tags:
+  - Homer
+  - packet
+  - capture
+  - pcap
+  - sip
+  - monitoring
+  - correlation
+  state: accepted
+  confirmed: true
+- full_name: Huib Kleinhout
+  avatar: https://pbs.twimg.com/profile_images/3063473999/5f671d63792139c1d572e66ec2393ac9_400x400.jpeg
+  location: Unknown
+  bio: ''
+  talk_format: Talk (~30-45 minutes)
+  twitter: hkleinhout
+  url: https://www.webrtc.org
+  organization: Google
+  title: 'WebRTC: Enterprise-grade, reliable RTC in the Browser'
+  abstract: Our original mission to bring secure p2p real-time communication to the
+    web has become real.  The current efforts of the WebRTC team focus on finalizing  the
+    specs in Chrome and on provide enterprise-grade reliability. This talk will provide
+    a closer look at our on-going efforts and roadmap for 2018
+  description: ''
+  notes: ''
+  audience_level: All
+  tags: []
+  state: accepted
+  confirmed: true
+- full_name: Michael Jerris
+  avatar: https://secure.gravatar.com/avatar/70cbb88d0ea316be47db81cdfefed978?s=500
+  location: Unknown
+  bio: Michael Jerris is a founding member of the FreeSWITCH Open Source Soft-Switch.
+    Michael has been working with open source since the early 2000's. He contributed
+    heavily to the Asterisk Open Source PBX and helped maintain the project infrastructure.
+    In 2005, he joined the FreeSWITCH project as a founding member and has been working
+    on the project since that time. Michael manages the platform and infrastructure
+    side of the FreeSWITCH project and works directly on the code doing new features
+    and improvements
+  talk_format: Talk (~30-45 minutes)
+  twitter: mjerris
+  url: https://freeswitch.com
+  organization: FreeSWITCH Solutions
+  title: The future of FreeSWITCH
+  abstract: Get an inside view of what the FreeSWITCH team has been working on.  See
+    the new products and features available soon.
+  description: The newest advancements in FreeSWITCH is taking us down some new paths.  I'll
+    explore the new capabilities and approaches the FreeSWITCH team has been working
+    on over the last year.
+  notes: As a core member of the FreeSWITCH engineering team, i've been deep in the
+    code working on these new solutions.  I'm excited to share our new tech.
+  audience_level: All
+  tags:
+  - FreeSWITCH
+  - voip
+  - webrtc
+  state: accepted
+  confirmed: true
+- full_name: Daniel-Constantin Mierla
+  avatar: https://secure.gravatar.com/avatar/880f3209634ae1d0281ded5c2f745c7d?s=500
+  location: Unknown
+  bio: "He co-founded Kamailio in June 2005, aiming to build a solid SIP server project
+    where openness to community and contributions has an important role, previously
+    being core developer of SIP Express Router (SER) from its early beginning in 2002.
+    He has a Master degree in Computer Science and Engineering from the Polytechnics
+    University of Bucharest. His experience was accumulated working as consultant
+    for Orange Romania, branch of French Orange mobile operator, and researcher in
+    network communications at Fraunhofer Fokus Institute, Berlin, Germany.\r\n\r\nHis
+    activity is done at Asipto, a company targeting to offer and build reliable services
+    and solutions that benefit at maximum from Kamailio’s flexibility and features,
+    sharing knowledge and expertise via professional trainings and consultancy. Daniel
+    is leading the development of the Kamailio project and he is member of its management
+    board."
+  talk_format: Talk (~30-45 minutes)
+  twitter: miconda
+  url: https://www.kamailio.org
+  organization: Kamailio
+  title: Kamailio - From VoIP to VoLTE, WebRTC and IoT
+  abstract: A talk to reveal the internal resources and components offered by Kamailio
+    SIP Server to cover the needs of heterogeneous deployments, to build tiny, small,
+    large or extra large RTC systems.
+  description: Kamailio SIP Server development spans over more than 17 years, along
+    the time going through the hypes and peaks of various technologies related to
+    real time communications over IP. This talk aims to reveal how Kamailio configuration
+    can be shaped to fit the needs of large deployments, such as VoIP or VoLTE services,
+    as well as the optimisations that can be done to cope with limited resources available
+    on low power devices present in IoT environments, in many cases required to leverage
+    the security and quality of WebRTC standards.
+  notes: ''
+  audience_level: All
+  tags:
+  - kamailio
+  - sip
+  - voip
+  - webrtc
+  - volte
+  - iot
+  state: accepted
+  confirmed: true
+- full_name: Răzvan Crainea
+  avatar: https://pbs.twimg.com/profile_images/943494994257727488/NNAIGd3Q_400x400.jpg
+  location: Unknown
+  bio: Enthusiastic VoIP developer, involved in design and development of various
+    VoIP platforms using OpenSIPS as a core component.
+  talk_format: Talk (~30-45 minutes)
+  twitter: razvancrainea
+  url: https://opensips.org
+  organization: OpenSIPS Project
+  title: OpenSIPS and the SIP Ecosystem
+  abstract: This talk shows the way VoIP (voice-over IP) works as a parallel to the
+    conventional PSTN and the different tasks OpenSIPS can take over to improve the
+    real-time communication experience.
+  description: 'This talk is going to contain a brief presentation of the VoIP world:
+    a classification of different components involved along with their purpose. Next,
+    I am going to talk about the *OpenSIPS* SIP proxy/server and the different roles
+    it can handle at the core of any VoIP platform, assisted by with various common
+    use-cases examples.'
+  notes: I've been working as a core developer for OpenSIPS for over 7 years, mentored
+    by the OpenSIPS founder, Bogdan Iancu. During this all this period, I've been
+    developing and designing different VoIP solutions that have OpenSIPS at the Core
+    of their engine.
+  audience_level: All
+  tags:
+  - VoIP
+  - SIP
+  - OpenSIPS
+  - SBC
+  - Proxy
+  state: accepted
+  confirmed: true
+- full_name: Lorenzo Miniero
+  avatar: https://secure.gravatar.com/avatar/5d5b7df256395eaacde3840fcbefd61e?s=500
+  location: Napoli, Italy
+  bio: Lorenzo Miniero is the chairman and co-founder of Meetecho, a company providing
+    consulting services on everything related to real-time multimedia, while also
+    regularly providing streaming and remote participation services for well known
+    events around the world (e.g., IETF and ACM). Lorenzo received his degree and
+    Ph.D. at the Computer Science Department of the University of Napoli Federico
+    II, where he started working on multimedia conferencing and met the colleagues
+    with whom he co-founded Meetecho as an academic spin-off. He is an active contributor
+    to the Internet Engineering Task Force (IETF) standardization activities, especially
+    in the framework of real-time multimedia applications. He is most known as the
+    author of the Janus WebRTC Server, an open source WebRTC server-side implementation.
+  talk_format: Talk (~30-45 minutes)
+  twitter: elminiero
+  url: https://janus.conf.meetecho.com
+  organization: Meetecho
+  title: 'Scaling server-side WebRTC applications: the Janus challenge'
+  abstract: Janus is a general purpose WebRTC server, so scaling is often a tricky
+    business that can't prescind from the context. The talk will describe how we worked
+    on separation of responsibilities, brokering of resources and media forwarding
+    for different use cases, and our efforts on some kind of a "PaaS".
+  description: "While P2P media in a browser is one of the best things WebRTC provided
+    to web developers and media enthusiasts, WebRTC servers are often needed to make
+    WebRTC applications actually \"scale\", especially with respect to the computing
+    and networking load clients may be subject to otherwise. That said, WebRTC servers
+    may need scaling considerations of their own, typically whenever the number of
+    users to serve grows beyond the capabilities of a single instance. This is true
+    for Janus as well, an open source WebRTC server implemented by Meetecho.\r\n\r\nFor
+    Janus, though, scaling is an even trickier business. In fact, its general purpose
+    nature means there are different plugins with completely different requirements
+    and media management, which means there is no one-size-fits-all mechanism for
+    scaling Janus-based applications: while some plugins handle each user and their
+    media streams independently of each other, making it easier to just distribute
+    the load on different servers, some don't or can't, e.g., due to relationships
+    that may exist among the media they involve. As such, in order to effectively
+    scale, one cannot prescind from the context of the application or use case, in
+    order to evaluate the best possible strategy depending on which plugin is in use,
+    or how the plugin is used.\r\n\r\nThe talk will go through some of our efforts
+    in that direction, and more specifically will describe how we identified some
+    common properties in the different use cases we had to address. Different strategies
+    will be presented, ranging from a simple deployment of multiple instances, to
+    context-aware separation of responsibilities and brokering of the media resources.
+    The presentation will finally also describe our steps and efforts in defining
+    an ad-hoc framework for making this as transparent as possible to developers and
+    users, in order to come up with what may be seen as a \"PaaS\", or \"Janus-as-a-service\"
+    if you like."
+  notes: "How to scale Janus is a question we're asked a lot, and, as explained in
+    the description, a tough one to answer. In our consulting activities we often
+    had to address this issue one way or another, whether the use case was conferencing,
+    broadcasting, gatewaying or some form of media processing, which is why we collected
+    some useful practices for us to re-use here and there. This is what lead us to
+    also start working on a pseudo-PaaS(*) approach for Janus, with the help of some
+    students from the University of Napoli: we plan to expand our efforts in that
+    direction soon, and expect to have exciting stuff available before the event!\r\n\r\n(*)
+    the \"pseudo\" tag comes from the fact that we don't plan to attack the WebRTC
+    PaaS market, or compete with the existing providers there: this is really just
+    an effort to implement automatic scalability for Janus for ourselves and others,
+    and in a way that can be installed on premise as well, rather than making it available
+    on a cloud provider managed by us."
+  audience_level: All
+  tags:
+  - WebRTC
+  - Scaling
+  - Janus
+  state: accepted
+  confirmed: true
+- full_name: Varun Singh
+  avatar: https://avatars1.githubusercontent.com/u/382354
+  location: " Helsinki, Finland"
+  bio: "\r\nVarun Singh is the Founder and CEO of CALLSTATS I/O OY. The callstats.io
+    product analyses and optimizes the Quality of multimedia in real-time communication
+    (currently, WebRTC). He has made several standards contributions IETF (since 2010),
+    and W3C (since 2014). He has a Ph.D. degree from Aalto University, Finland. callstats.io
+    was named a “Cool Vendor 2016” in Unified Communications by Gartner."
+  talk_format: Talk (~30-45 minutes)
+  twitter: vr000m
+  url: https://www.callstats.io
+  organization: Callstats I/O
+  title: 'Lessons learnt and WebRTC metrics from running callstats.io '
+  abstract: callstats.io is "Google Analytics for real-time communications" in this
+    talk we will be discuss metrics that measures the Service Quality on a day-to-day
+    basis and show the long-term trends that we've observed.
+  description: callstats.io is "Google Analytics for real-time communications" in
+    this talk we will be discuss metrics that measures the Service Quality on a day-to-day
+    basis and show the long-term trends that we've observed. Some of the metrics discussed
+    in this talk will most likely will be covered in a WebRTC Metrics Report (due
+    to be published in July 2018), so these would be new information for the folks
+    attending the conference.
+  notes: ''
+  audience_level: All
+  tags:
+  - webrtc
+  - quality of experience
+  - monitoring
+  - ai
+  - metrics
+  - webrtc statistics api
+  state: accepted
+  confirmed: true
+- full_name: Boris Grozev
+  avatar: https://media.licdn.com/dms/image/C5603AQHkO-1G8fdpvQ/profile-displayphoto-shrink_800_800/0?e=1528988400&v=beta&t=ksZZqgrXf-Uc0Ce_2EHq0gsbidOj9vLpupTbC0wN4Q4
+  location: Unknown
+  bio: 'Boris Grozev is one of the developers on the Jitsi team working at Atlassian. Although throughout the years he has worked on most parts of the Jitsi stack, passion is the intersection between networking and multimedia, and most of his work is on the development of the Jitsi media server, jitsi-videobridge. He is also interested in scientific research, and is currently pursuing a Ph.D. in computer networks at the University of Strasbourg.'
+  talk_format: Talk (~30-45 minutes)
+  twitter: BorisGrozev
+  url: https://jitsi.org
+  organization: Atlassian / Jitsi
+  title: 'Jitsi: self-driving video conferences'
+  abstract: Video conferencing is hard. There are many devices, browsers, etc, but
+    the devil is always in the details. That last 20% which takes up 80% of your time.
+    Come and see how Jitsi has you covered, and it will help you connect anything
+    to everything.
+  description: "When adding video conferencing capabilities to your applications,
+    there are a myriad of services to choose from, and you can always DIY it. Jitsi
+    ticks all the boxes while being 100% Open Source and self-hostable.\r\n\r\nWeb
+    browsers? Check. Mobile devices? Check. Watch? Yep, that too. Recording, builtin
+    chat, easy to use APIs, even some machine learning! Jitsi has all the bells and
+    whistles someone may need when adding video conferencing to an application.\r\n\r\nIn
+    this talk we'll explore all this and see how you can unleash the power of Jitsi
+    to video-boost your application."
+  notes: ''
+  audience_level: All
+  tags: []
+  state: accepted
+  confirmed: true
+- full_name: Alexandre GOUAILLARD
+  avatar: https://pbs.twimg.com/profile_images/637881106587512836/DNh9zpB6_400x400.jpg
+  location: Unknown
+  bio: "Dr Alex Gouaillard is CEO and Founder of CoSMo Software, a WebRTC consulting
+    and tooling company. Winner of 3 WebRTC Conference and Expo Industrial Awards
+    (2013~2014), as well as 1 WebRTC Pioneer Award (2014), Co-Leader of the WebRTC-in-Webkit
+    Project with Ericsson R&D (2015), he is regarded as one of the pioneers of Web
+    Real-Time Communication (WebRTC).\r\nInvited Expert of the W3C WebRTC Working
+    Group, he is in charge of the WebRTC test suite, and browsers interoperability.
+    Active member of IETF, he participates to the definition of all WebRTC specifications,
+    and some more, like PERC. He was also co-chair of the IMTC WebRTC Interoperability
+    Group.\r\nDr. Alex holds two PhDs from INSA, France, and KEIO University, Japan.
+    He has deep experience in communications, signal and image processing. In the
+    past, he has established and led successful research groups at Caltech University,
+    Harvard University, and the Singaporean Agency for Science, Technology and Research.
+    Dr. Alex was also involved in several innovative startups in Europe, North America,
+    and APAC. He speaks to some level French, German, English, Japanese, Chinese,
+    Thai and Filipino, all with a French accent."
+  talk_format: Workshop (> 60 minutes)
+  twitter: agouaillard
+  url: http://www.webrtcbydralex.com
+  organization: CoSMo, IETF, W3C
+  title: KITE - Open Source, Free End-to-end testing for WebRTC
+  abstract: 'Browsers claim to support WebRTC, but practically, browser to browser
+    calling is challenging. It is even worse if you include all the possible client
+    apps one can have: native, mobile, IoT, ... . Here comes KITE, an open-source,
+    free, google-backed automated testing environment that does just that.'
+  description: "It is of utmost importance for the future success of WebRTC applications
+    and systems to ensure that interoperability is operational between web browsers
+    and any WebRTC-compliant client. To be guaranteed as operational and effective,
+    interoperability must be tested extensively by establishing WebRTC data and media
+    connections between different webrtc client apps running on different devices
+    and operating systems.\r\n\r\nWe will present a comprehensive view of the numerous
+    testing challenges researchers have faced before arriving at the first release
+    candidate of the WebRTC specifications. More specifically, we touch on WebRTC
+    testing at different levels: W3C JS API compliance, stand-alone web application\r\ntesting,
+    WebRTC security testing, P2P network and ICE testing, synchronous and asymmetric
+    testing and eventually show the emergence of a need for full global interoperability
+    testing. We will show at each level how WebRTC has been pushing boundaries of
+    existing test suites, and triggering new developments both for the standards,
+    and for the industry.\r\n\r\nFinally We will present KITE, an open source, generic,
+    reusable and easy to maintain automated testing environment for testing WebRTC
+    P2P interoperability across all types of WebRTC-compliant clients.\r\n"
+  notes: ''
+  audience_level: All
+  tags:
+  - webrtc
+  - testing
+  - KITE
+  rating: 0
+  confirmed: true
+- full_name: James Body
+  avatar: https://pbs.twimg.com/profile_images/111677026/JB_eComm_2008_cropped_400x400.jpg
+  location: Bowerchalke, Wiltshire
+  bio: "With over 40 years experience with Telecommunications Systems, James has been
+    described as a ‘Walking Wikipedia for Communications Systems’.  As an energetic
+    exponent of Open Source software he has been intimately involved with projects
+    like Asterisk, Kamailio, and FreeSWITCH since their inception.  For the 10 year
+    period between 2006 and 2016 he was responsible for much of the really innovative
+    components of Truphone as it evolved from the World’s first mobile VoIP operator
+    into a fully fledged International Mobile Network Operator with a huge high end
+    user community.  Having demonstrated the art of building Open Source based Mobile
+    Network infrastructure at the Telecoms Application Developers events (TAD Summit)
+    and being selected by the Small Cell Forum as Global Operator Champion for Multi
+    Operator Neutral Host (MONeH) Small Cells, he left Truphone in November 2016 to
+    bootstrap a new company with the specific aim of building all of the components
+    required to enable privately owned publicly accessible mobile networks, starting
+    with a solution to solve the problem of Rural Not-Spots.\r\n\r\nJames has spent
+    the past 5 years co-hosting the weekly VUC Podcast [ VUC.me ]."
+  talk_format: Workshop (> 60 minutes)
+  twitter: jamesbody
+  url: https://www.teletresearch.com
+  organization: Telet Research
+  title: How to deploy your own 4G mobile system
+  abstract: Two years ago it was almost impossible to deploy a mobile network without
+    being a big MNO and spending huge amounts of cash. Today things have changed -
+    and James will demonstrate how it is possible to set up your own publicly accessible
+    mobile network without breaking the bank - or the law!
+  description: "This workshop will run through all of the components required to assemble
+    a fully functional 4G (LTE-A) Multi Operator Neutral Network (MONeH).  Hardware
+    can be either Open Source or Commercial-Off-the-Shelf based, coupled with software
+    and services assembled from easily accessible sources.  Add to this exciting mixture
+    James’ ‘Magic Ingredients’, including the super secret MONeH SIM (multi-IMSI/mult-crypto
+    capable) and licenced interconnections with the Public Mobile Networks via a cloud
+    based mobile network core.\r\n\r\nWe will also debunk the mystery behind getting
+    usable mobile spectrum to run your own network on - without having to invest billions
+    of dollars in National Spectrum Auctions!"
+  notes: "Should this talk be accepted we will aim to deploy a live 4G system within
+    the venue and will issue each registered attendee with a Commcon branded Multi-IMSI/multi-crypto
+    SIM card for use(/abuse) during the conference.  SIMs will be capable of operation
+    both on public and private networks.\r\n\r\nThis presentation will need to be
+    given as close to the beginning of the event as possible, as it will explain and
+    demonstrate the functionality of the event system/SIMs - which then be used by
+    internal communications and application development later on."
+  audience_level: All
+  tags:
+  - 4G LTE SIM MNO Kamailio IMS SIP DIAMETER Spectrum VoLTE SMS Band40 MuLTEFire
+  state: accepted
+  confirmed: true
+- full_name: Dave Horton
+  avatar: https://secure.gravatar.com/avatar/049e8824fe0b8c2accb000e1caee7beb?s=500
+  location: Unknown
+  bio: "I've been \"doing\" VoIP since 2000, when I founded a SIP application server
+    company (Pactolus Communication Software) that made and sold a commercial software-based
+    application server/app suite to carriers and communication service providers worldwide.
+    \ With customers ranging from Webex to Deutsche Telekom and many successful deployments
+    under my belt, I learned quite a bit but increasingly saw both the challenges
+    and opportunities created by the disruption that was the open source movement.
+    \ \r\n\r\nWhile on an extended \"adventure sabbatical\" a few years ago, mostly
+    spent in beautiful Pembrokeshire Wales,  I decided to create drachtio, an open
+    source framework that at once combined my desires to work in the open source movement
+    \ and to find a useful vessel in which to invest the knowledge that I had gained
+    over the years in building and deploying VoIP networks and applications that had
+    to be held to the highest standards of performance and reliability.\r\n\r\nI love
+    writing software both for the web and VoIP and am enjoying being a part of working
+    to see these two worlds come together.  I'm also an avid rugby fan, and have enjoyed
+    playing for teams ranging from the US national team in my heyday to the 5th division
+    St Davids Saints more recently.  While at the conference, I would love to talk
+    to anyone about Wales chances in the next world cup!\r\n"
+  talk_format: Talk (~30-45 minutes)
+  twitter: davehorton
+  url: ''
+  organization: Beachdog Networks
+  title: drachtio - The open-source VoIP framework for full-stack WebRTC developers
+  abstract: "How come \"full-stack webRTC developer\" isn't a thing?  \n\ndrachtio
+    is the open-source framework that means to change all that: enabling web developers
+    to build their own high-performance back-end VoIP networks and applications using
+    tools and programming patterns that they are already familiar with."
+  description: "# drachtio - The open-source VoIP framework for full-stack webRTC
+    developers\r\n\r\n## Overview\r\nWebRTC and VoIP.  The odd couple of modern communications.
+    \ WebRTC gives web developers exciting new abilities to create innovative communication
+    and collaboration applications, but  only to the extent that someone has built
+    out a reliable and performant back-end VoIP network.  And until now, that has
+    required specialized skills, knowledge and often domain-specific programming languages
+    that a web developer can't hope to acquire and maintain as a side effort to his
+    or her day job.  The Drachtio open source project aims to change that -- to introduce
+    the concept of a \"full-stack webRTC developer\" -- by providing a pure Javascript
+    node-js based framework that allows web developers to build their own back-end
+    networks and applications using tools and programming patterns that they are already
+    familiar with.\r\n\r\nDrachtio is an open source project that comprises a high-performance,
+    programmable SIP server along with a nodejs-based application framework that leverages
+    common middleware patterns that a modern web developer will already know and love.
+    \ It is the new kid on the block, but has been already deployed in multiple carrier
+    and service provider networks around the world where it is used to deliver a wide
+    range of VoIP applications and is carrying hundreds of millions of minutes per
+    month.  This talk will cover the drachtio architecture and programming model,
+    position it relative to other VoIP projects such as Kamailio, Freeswitch and the
+    rest of the gang, will describe some of the use case deployments, and provide
+    the audience with an easy path to further explore and deploy VoIP services and
+    back-end networks using it.\r\n\r\n## Why drachtio\r\nToday, more so than at any
+    time in the past, we have the ability to build out a fairly rich set of VoIP communications
+    networks and servers to deliver services to our subscribers and communities.  Possible,
+    but not easy - at least not \"full-stack web development easy\".  \r\n\r\nUsing
+    products such as Kamailio, Freeswitch, and Asterisk it is possible to deploy VoIP
+    networks at low cost and at scale.  Kamailio, for instance, is a powerful SIP
+    proxy and edge element, but deployments require mastering its rather cryptic configuration
+    language.  Freeswitch and Asterisk provide flexible media-processing capabilities,
+    but each comes with a significant learning curve investment as well in terms of
+    extensive configuration as well as detailed SIP language knowledge.  Each of these
+    products, however, have a place in the constellation of open source VoIP elements,
+    as does drachtio.  Drachtio sits in between Kamailio and Freeswitch, if you will,
+    in providing a \"home\" for most of the VoIP application code a developer will
+    write while leveraging those elements as needed.  For a modern web developer familiar
+    with middleware patterns such as those exposed by express, connect, hapi, or koa,
+    drachtio will fit comfortably to hand. The only difference is that rather than
+    building an HTTP-based services, drachtio enables building SIP-based servers (and
+    clients!  and registrars! and presence servers! etc).\r\n\r\n## Use Cases\r\nWe
+    will discuss and review how drachtio is being used today in communication service
+    provider networks.  Use case descriptions will include:\r\n- intelligent call
+    steering (e.g., time of day, geographic, network utilization)\r\n- WebRTC gateway\r\n-
+    call / media recording\r\n- class 5 type services \r\n- VoIP emergency services\r\n-
+    others\r\n\r\n# Architecture\r\nWe will review the architecture in some detail,
+    giving the audience a sense of the programming model and how drachtio aims to
+    provide carrier-class reliability and scalability features \r\n\r\n# Getting started
+    / resources\r\nFor those interested in jumping right in after the talk, we will
+    review how to get quickly up and running with sample applications and deployments,
+    and provide pointers to where to go to get more help."
+  notes: ''
+  audience_level: All
+  tags:
+  - voip
+  - sip
+  - javascript
+  - nodejs
+  state: accepted
+  confirmed: true
+- full_name: Matthew Fredrickson
+  avatar: https://secure.gravatar.com/avatar/9e01176bf362def480701c26b1543188?s=500
+  location: Unknown
+  bio: Matthew has worked at Digium more or less since 2001. He has a BS in Computer
+    Engineering from the University of Alabama in Huntsville. He wrote Digium's SS7
+    stack, libss7, as well as maintained and developed its ISDN stack libpri. He also
+    wrote a number of DAHDI drivers and maintained the DAHDI project for a number
+    of years. He currently is serving at Digium as the leader of the Asterisk project.
+  talk_format: Talk (~30-45 minutes)
+  twitter: creslin287
+  url: ''
+  organization: Digium, Inc
+  title: 'Asterisk: What''s new and what''s up and coming?'
+  abstract: This is an opportunity for people to learn more about what's new with
+    Asterisk 15, the most recent major release of Asterisk and what's in the development
+    pipeline for Asterisk 16, the next big release of Asterisk.
+  description: "This is an opportunity for people to learn more about what's new with
+    Asterisk 15, the most recent major release of Asterisk and what's in the development
+    pipeline for Asterisk 16, the next big release of Asterisk.\r\n\r\nDetails of
+    new features in Asterisk 15 will be discussed, including some of the new video
+    functionality and other WebRTC improvements.  Also, a short demonstration of Asterisk
+    15's new SFU video functionality will be given.  If there is time, a project level
+    update will also be given, including what's up and coming for the new major version."
+  notes: ''
+  audience_level: Intermediate
+  tags:
+  - Asterisk
+  state: accepted
+  confirmed: true
+- full_name: Nir Simionovich
+  avatar: https://pbs.twimg.com/profile_images/977648555899981824/fNKgQc41.jpg
+  location: Unknown
+  bio: Will be sent later
+  talk_format: Workshop (> 60 minutes)
+  twitter: ''
+  url: 'http://www.simionovich.com '
+  organization: Cloudonix.io
+  title: ARI workshop with php-ari
+  abstract: PHP is most probably the darling language of Asterisk platform developers
+    - it's been around for years, it's stable - and information is all over. But,
+    AGI is limited - time to spread your wings with PHP and ARI.
+  description: "The world is changing and the need for a new breed of Asterisk voice
+    applications is here. Asynchronous applications are not enough any more, we need
+    more power and more control over our calls and media streams. This session will
+    introduce you the Asterisk REST interface, a new methodology of developing next
+    generation Asterisk applications, specifically with the PHP-ARI library. \r\n\r\nPHP-ARI
+    was created as bridge for classic PHP developers, looking to get started with
+    Asterisk ARI, without the need to learn a new development language or development
+    paradigm. \r\n\r\nWhat should you know in order to participate in this workshop:\r\n1.
+    A basic understanding of the Asterisk Open Source PBX platform\r\n2. A basic understanding
+    of PHP \r\n3. Some familiarity with the legacy PHP-AGI library\r\n\r\nWhat will
+    we do during the workshop? that is very much up-to-you. The workshop is will be
+    an open ended workshop, where the concepts and paradigms will be presented with
+    some basic exercises. Following the basic workshop we will continue to the first
+    ever ARI Mob-Programming/Mini-Hackathon session, where the workshop participants
+    will split into small work-groups (up to 4 participants in each group) - and we
+    will all code the same application requirement. Following the code session, all
+    will present their application - to the \"grilling\" of the audience. \r\n\r\n###
+    Best implementation will win a special [cloudonix.io](http://cloudonix.io/) sponsored
+    award - for the entire team."
+  notes: "Some technical requirements:\r\n\r\n1. Bring your own laptop - we will not
+    be providing these for participants\r\n2. If you are anything like me and require
+    a keyboard to code with - bring it\r\n\r\nI suggest you do some lite reading about
+    [php-ari](http://www.phpari.org/) before hand - this is purely optional.\r\n\r\nDuring
+    the session we will be doing additional mini-hackathon, which will be to provide
+    a new version of PHP-ARI based upon the ReactPHP framework. If you would like
+    to participate in that, send me an email to *commcon2018 at cloudonix.io*"
+  audience_level: Beginner
+  tags:
+  - Asterisk
+  - php
+  - Ari
+  - agi
+  - ami
+  - voip
+  state: accepted
+  confirmed: true
+- full_name: Mira Georgieva
+  avatar: https://pbs.twimg.com/profile_images/831134184823459840/rV6YlhlV_400x400.jpg
+  location:  Sofia, Bulgaria
+  bio: President at Zoiper
+  talk_format: Talk (~30-45 minutes)
+  twitter: 'mirazoiper'
+  url: https://www.zoiper.com/
+  organization: 'Zoiper'
+  title: Blockchain meets telecom
+  abstract: An overview of blockchain benefits and limitations from a telecom perspective and a closer look at existing and planned telecom applications.
+  description:
+  notes:
+  audience_level: All
+  tags:
+  state: accepted
+  confirmed: true
+- full_name: Joachim Vanheuverzwijn
+  avatar: /assets/images/speakers/joachim.jpeg
+  location:  Sofia, Bulgaria
+  bio: Ex Asteriskguru Co-founder and CTO at zoiper.com
+  talk_format: Talk (~30-45 minutes)
+  twitter:
+  url: https://www.zoiper.com/
+  organization: 'Zoiper'
+  title: Blockchain meets telecom
+  abstract: An overview of blockchain benefits and limitations from a telecom perspective and a closer look at existing and planned telecom applications.
+  description:
+  notes:
+  audience_level: All
+  tags:
+  state: accepted
+  confirmed: true
+- full_name: Dan Jenkins
+  location:  UK
+  bio: Dan is the organiser of CommCon amongst other things. Lover of Lego and WebRTC.
+  talk_format: Talk (~30-45 minutes)
+  avatar: https://pbs.twimg.com/profile_images/501749596226584576/w3U8Y5Cd_400x400.jpeg
+  twitter: dan_jenkins
+  url: https://nimblea.pe
+  organization: 'Nimble Ape'
+  title: Opening and Closing Talks
+  abstract:
+  description:
+  notes:
+  audience_level: All
+  tags:
+  state: accepted
+  confirmed: true
+- full_name: "Lynsey Haynes"
+  avatar: "https://pbs.twimg.com/profile_images/808737810148564992/Iz27g_2p.jpg"
+  location: Unknown
+  bio: "Building Slack's video conferencing service."
+  talk_format: "Talk (~30-45 minutes)"
+  twitter: lynseyahaynes
+  url: "https://slack.com"
+  organization: Slack
+  title: "Building and Scaling Slack's Video Conferencing Service"
+  abstract: "Slack's user base is quickly growing, and adoption of the calls feature is increasing even faster. We'll talk about strategies and technologies for serving this growth with a small team, such as developing our own media server in Elixir and shipping Electron powered clients."
+  description: "Building your own video conferencing service with a small team? We've done this at Slack and will explain the rationale behind decisions we made along the way. We'll highlight some of the strategies and technologies that have been successful for us, such as developing our own media server in Elixir and shipping Electron powered desktop clients. We'll also cover new features we've started offering as Slack expands to larger organizations, such as full proxy support."
+  notes: "Lynsey and I have given variants of this talk twice now, but it's likely we'll have some exciting new directions to share by summer time. Possibilities include having open sourced the Elixir media server and developing true cross-platform clients with React/React Native/ReactXP."
+  audience_level: All
+  state: accepted
+  confirmed: true
+- full_name: Cezary Siwek
+  avatar: /assets/images/speakers/cezary.jpg
+  location: Unknown
+  bio: "Cezary has been developing RTC applications for more than 15 years. Previously worked for Truphone and France Telecom. Now, he is leading development of the media processing service  at Nexmo, The Vonage API Platform.
+The service is being used by Nexmo's core voice products: Voice API and Stitch."
+  talk_format: "Talk (~30-45 minutes)"
+  twitter:
+  url: "https://nexmo.com"
+  organization: Nexmo
+  title: "The World of (audio) Websockets"
+  abstract: "I will present cool things you can do with our websocket audio streaming API, how we have built it and why are open sourcing it."
+  description:
+  notes:
+  audience_level: All
+  state: accepted
+  confirmed: true
+
