@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>CommCon 2018 | Dave Horton</title>
+
+    <!-- js -->
+    <!-- <script src='https://js.tito.io/v1' async></script> -->
+
+    <!-- css -->
+    <link rel="stylesheet" type="text/css" href="/bower_components/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="/bower_components/ionicons/css/ionicons.min.css" />
+    <link rel="stylesheet" type="text/css" href="/bower_components/countdown/jquery.countdown.css" />
+    <link rel="stylesheet" type="text/css" href="/assets/css/main1.css" />
+    <!-- <link rel="stylesheet" type="text/css" href='https://css.tito.io/v1.1' /> -->
+
+</head>
+
+<body data-spy="scroll">
+<div id="home"></div>
+<nav id="site-nav" class="navbar navbar-fixed-top navbar-custom">
+    <div class="container">
+        <div class="navbar-header">
+
+            <!-- logo -->
+            <div class="site-branding">
+                <a class="logo" href="/">
+                    <span class="flipReverse headliner">C</span><span class="headliner">C</span><span class="trend">COMMCON</span>
+                </a>
+            </div>
+
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-items"
+                    aria-expanded="false">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+
+        </div><!-- /.navbar-header -->
+
+        <div class="collapse navbar-collapse" id="navbar-items">
+            <ul class="nav navbar-nav navbar-right">
+
+                <!-- navigation menu -->
+                <li><a href="/#about">About</a></li>
+                <li><a href="/#location">Venue</a></li>
+                <li><a href="/#speakers">Speakers</a></li>
+                <li><a href="/#schedule">Schedule</a></li>
+                <li><a href="/#registration">Your Ticket</a></li>
+                <!-- <li><a href="index.html#partner">Partner</a></li> -->
+                <li><a href="/#sponsorship">Sponsorship</a></li>
+                <li><a href="/#faq">FAQ</a></li>
+                <!-- <li><a href="index.html#photos">Photos</a></li> -->
+
+            </ul>
+        </div>
+    </div><!-- /.container -->
+</nav>
+
+<header id="site-header" class="site-header valign-center">
+    <div class="intro">
+        <h1 class="trend">CommCon 2018</h1>
+        <h3 class="headliner">Dave Horton</h3>
+        <figure>
+            
+                
+                    <img alt="Photo of Dave Horton" class="img-responsive center-block" src="https://secure.gravatar.com/avatar/049e8824fe0b8c2accb000e1caee7beb?s=500&d=https%3A%2F%2Fcommcon.xyz%2Fassets%2Fimages%2Fdefault-avatar.jpg" />
+                
+            
+        </figure>
+    </div>
+</header>
+
+<section id="about" class="section about">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+
+                <h3 class="section-title headliner">About Dave Horton</h3>
+
+                <p><p>I’ve been “doing” VoIP since 2000, when I founded a SIP application server company (Pactolus Communication Software) that made and sold a commercial software-based application server/app suite to carriers and communication service providers worldwide.  With customers ranging from Webex to Deutsche Telekom and many successful deployments under my belt, I learned quite a bit but increasingly saw both the challenges and opportunities created by the disruption that was the open source movement.</p>
+
+<p>While on an extended “adventure sabbatical” a few years ago, mostly spent in beautiful Pembrokeshire Wales,  I decided to create drachtio, an open source framework that at once combined my desires to work in the open source movement  and to find a useful vessel in which to invest the knowledge that I had gained over the years in building and deploying VoIP networks and applications that had to be held to the highest standards of performance and reliability.</p>
+
+<p>I love writing software both for the web and VoIP and am enjoying being a part of working to see these two worlds come together.  I’m also an avid rugby fan, and have enjoyed playing for teams ranging from the US national team in my heyday to the 5th division St Davids Saints more recently.  While at the conference, I would love to talk to anyone about Wales chances in the next world cup!</p>
+</p>
+
+                
+                    <ul class="social-block align-bottom align-center">
+                        <li><a href="https://twitter.com/davehorton" target="_blank"><i class="ion-social-twitter"></i></a></li>
+                    </ul>
+                
+
+                <!-- <figure>
+                    <img alt="" class="img-responsive" src="assets/images/about-us.jpg">
+                </figure> -->
+
+            </div><!-- /.col-sm-12 -->
+        </div><!-- /.row -->
+    </div><!-- /.container -->
+</section>
+
+<section id="talk" class="section talk">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                
+                <h3 class="section-title headliner">Dave Horton's Session</h3>
+                
+                    <p><p>How come “full-stack webRTC developer” isn’t a thing?</p>
+
+<p>drachtio is the open-source framework that means to change all that: enabling web developers to build their own high-performance back-end VoIP networks and applications using tools and programming patterns that they are already familiar with.</p>
+</p>
+                    <p><h1 id="drachtio---the-open-source-voip-framework-for-full-stack-webrtc-developers">drachtio - The open-source VoIP framework for full-stack webRTC developers</h1>
+
+<h2 id="overview">Overview</h2>
+<p>WebRTC and VoIP.  The odd couple of modern communications.  WebRTC gives web developers exciting new abilities to create innovative communication and collaboration applications, but  only to the extent that someone has built out a reliable and performant back-end VoIP network.  And until now, that has required specialized skills, knowledge and often domain-specific programming languages that a web developer can’t hope to acquire and maintain as a side effort to his or her day job.  The Drachtio open source project aims to change that – to introduce the concept of a “full-stack webRTC developer” – by providing a pure Javascript node-js based framework that allows web developers to build their own back-end networks and applications using tools and programming patterns that they are already familiar with.</p>
+
+<p>Drachtio is an open source project that comprises a high-performance, programmable SIP server along with a nodejs-based application framework that leverages common middleware patterns that a modern web developer will already know and love.  It is the new kid on the block, but has been already deployed in multiple carrier and service provider networks around the world where it is used to deliver a wide range of VoIP applications and is carrying hundreds of millions of minutes per month.  This talk will cover the drachtio architecture and programming model, position it relative to other VoIP projects such as Kamailio, Freeswitch and the rest of the gang, will describe some of the use case deployments, and provide the audience with an easy path to further explore and deploy VoIP services and back-end networks using it.</p>
+
+<h2 id="why-drachtio">Why drachtio</h2>
+<p>Today, more so than at any time in the past, we have the ability to build out a fairly rich set of VoIP communications networks and servers to deliver services to our subscribers and communities.  Possible, but not easy - at least not “full-stack web development easy”.</p>
+
+<p>Using products such as Kamailio, Freeswitch, and Asterisk it is possible to deploy VoIP networks at low cost and at scale.  Kamailio, for instance, is a powerful SIP proxy and edge element, but deployments require mastering its rather cryptic configuration language.  Freeswitch and Asterisk provide flexible media-processing capabilities, but each comes with a significant learning curve investment as well in terms of extensive configuration as well as detailed SIP language knowledge.  Each of these products, however, have a place in the constellation of open source VoIP elements, as does drachtio.  Drachtio sits in between Kamailio and Freeswitch, if you will, in providing a “home” for most of the VoIP application code a developer will write while leveraging those elements as needed.  For a modern web developer familiar with middleware patterns such as those exposed by express, connect, hapi, or koa, drachtio will fit comfortably to hand. The only difference is that rather than building an HTTP-based services, drachtio enables building SIP-based servers (and clients!  and registrars! and presence servers! etc).</p>
+
+<h2 id="use-cases">Use Cases</h2>
+<p>We will discuss and review how drachtio is being used today in communication service provider networks.  Use case descriptions will include:</p>
+<ul>
+  <li>intelligent call steering (e.g., time of day, geographic, network utilization)</li>
+  <li>WebRTC gateway</li>
+  <li>call / media recording</li>
+  <li>class 5 type services</li>
+  <li>VoIP emergency services</li>
+  <li>others</li>
+</ul>
+
+<h1 id="architecture">Architecture</h1>
+<p>We will review the architecture in some detail, giving the audience a sense of the programming model and how drachtio aims to provide carrier-class reliability and scalability features</p>
+
+<h1 id="getting-started--resources">Getting started / resources</h1>
+<p>For those interested in jumping right in after the talk, we will review how to get quickly up and running with sample applications and deployments, and provide pointers to where to go to get more help.</p>
+</p>
+                
+
+                <ul class="social-block align-bottom align-center">
+                    <li><a href="/talks/drachtio---the-open-source-voip-framework-for-full-stack-webrtc-developers/"><i class="ion-link"></i></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+
+<footer class="site-footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <p class="site-info">Organised by <a href="https://nimblea.pe" target="_blank">Nimble Ape Ltd</a>
+                </p>
+                <ul class="social-block">
+                    <li><a href="https://twitter.com/commconuk" target="_blank"><i class="ion-social-twitter"></i></a></li>
+                    <li><a href="https://facebook.com/CommConUK" target="_blank"><i class="ion-social-facebook"></i></a></li>
+                    <li><a href="https://www.instagram.com/commconuk/" target="_blank"><i class="ion-social-instagram"></i></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<!-- script -->
+<script src="/bower_components/jquery/dist/jquery.min.js"></script>
+<script src="/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="/bower_components/countdown/jquery.plugin.min.js"></script>
+<script src="/bower_components/countdown/jquery.countdown.min.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBS4kROlrATXg7yJ5eFD7gfKgv9URrPyio"></script>
+<script src="/assets/js/main.js"></script>
+</body>
+</html>
